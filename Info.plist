@@ -5,7 +5,7 @@
 	<key>CFBundleExecutable</key>
 	<string>RDMAEnabler</string>
 	<key>CFBundleIdentifier</key>
-	<string>li.zhaofeng.RDMAEnabler</string>
+	<string>is.joshi.RDMAEnabler</string>
 	<key>CFBundlePackageType</key>
 	<string>KEXT</string>
 	<key>CFBundleVersion</key>
